@@ -1,6 +1,6 @@
 ## Data Pipeline for Walmart E-commerce Sales Analysis
 
-This report details the creation of a data pipeline to process and analyze e-commerce sales data from a multinational retail corporation, Walmart. 
+This project details the creation of a data pipeline to process and analyze e-commerce sales data from a multinational retail corporation, Walmart. 
 ### Detailed website about the project: 
 https://sites.google.com/view/building-a-retail-datapipeline/general?authuser=3
 ## Project Goals
